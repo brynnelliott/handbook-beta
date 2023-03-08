@@ -137,7 +137,7 @@ Active Trainers may elect to become inactive by requesting Trainer Alumni status
 
 * Vote in Trainer community elections
 
-Exceptions may be made at the discretion of The Carpentries Core Team. To request permission to teach or host a demo, contact team@carpentries.org.
+Exceptions may be made at the discretion of The Carpentries Core Team. To request permission to teach or host a demo, contact [The Carpentires](mailto:team@carpentries.org).
 
 
 #### Trainer Alumni may select to:
@@ -160,11 +160,7 @@ Exceptions may be made at the discretion of The Carpentries Core Team. To reques
 
 #### Trainer Alumni 
 
-Active Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Trainer Roles and Responsibilities for 1 year or more. Active Trainers may also have their role changed to Trainer Alumni if they do not 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "renew their Active status"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[renew their Active status](#heading=h.cp4it9i4qwtc) during the annual renewal period. 
+Active Trainers may elect to become inactive at any time if they expect to be unavailable to participate in the Trainer Roles and Responsibilities for 1 year or more. Active Trainers may also have their role changed to Trainer Alumni if they do not during the annual renewal period. 
 
 Trainer Alumni will not be permitted to:
 
